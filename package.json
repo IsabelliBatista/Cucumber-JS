@@ -1,0 +1,26 @@
+{
+  "name": "Cucumber-Js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsabelliBatista/Cucumber-Js.git"
+  },
+  "keywords": [
+    "nodejs",
+    "cucumberjs",
+    "bdd",
+    "qaninja",
+    "javascript"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IsabelliBatista/Cucumber-Js/issues"
+  },
+  "homepage": "https://github.com/IsabelliBatista/Cucumber-Js#readme"
+}
